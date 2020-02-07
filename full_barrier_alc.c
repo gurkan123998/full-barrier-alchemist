@@ -31,6 +31,7 @@ scanf("%d %d",&type[N],&X);
 			if(Life==0){
 				result[t]=counter-1;
 				break;
+				//trial
 	
 			}
 	
