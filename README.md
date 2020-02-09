@@ -6,3 +6,15 @@ The height of Edward is H units and he has an alchemic life force of L units. Mo
 
 If after breaking a barrier no life force is left, Edward gets completely exhausted, unable to pass that barrier.
 How many barriers can Edward cross?
+sample input:
+1
+6 5 1 2 3
+2 2
+2 1
+1 10
+2 8
+2 4
+1 2
+
+sample output:
+5
